@@ -4,3 +4,5 @@ x = 2;
 y = 40;
 
 result = x + y
+
+console.log(result);
